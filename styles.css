@@ -1,0 +1,132 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+  
+body{
+  font-family: 'Manrope';
+  font-style: normal;
+background-color: black;
+}
+
+.home{
+  display: flex;
+  justify-content: center;
+   height: 5.62rem;
+  align-items: center;
+  gap: 2rem;
+  color: #FFFFFF;
+  font-weight: 500;
+}
+
+
+/* Great code */
+.greatcode{
+  position: absolute;
+  width: 548px;
+  left: 406px;
+  top: 235px;
+  
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 80px;
+  line-height: 109px;
+  letter-spacing: -0.03em;
+  
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+
+
+ /* Blur´s  */
+.blur1{
+  position: absolute;
+width: 300px;
+height: 321px;
+left: 1160px;
+top: -60px;
+
+background: #996DFF;
+filter: blur(400px);
+}
+
+.blur2{
+  
+  position: absolute;
+  width: 20rem;
+  height: 20rem;
+  left: -71px;
+  top: -43px;
+  
+  background: #996DFF;
+  filter: blur(400px);
+}
+
+
+/* Button  */
+.button {
+  box-sizing: border-box;
+
+  margin-left: 8.23rem;
+  margin-right: 5rem;
+
+  border: 1px solid #8257E5;
+  border-radius: 6px;
+  padding: 11px 38px;
+}
+
+main .text-1 {
+   display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 2.5rem;
+  font-size:5rem ;
+  font-weight: 700;
+  color: #FFFFFF;
+}
+
+main .text-2{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 2.5rem;
+  font-size:5rem ;
+  font-weight: 700;
+  color: #FFFFFF;
+
+  
+}
+
+
+/* Image Coffee */
+
+.image {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 20rem;
+  margin-top: 6.87rem;
+ 
+
+}
+
+.c2 {
+  position: absolute;
+width: 8.76rem;
+height: 11.18rem;
+left:20rem;
+
+
+top: 35rem;
+
+}
+
+footer {
+  position: absolute;
+  width: 43.06px;
+  height: 3.12rem;
+  left: 9rem;
+  top: 1.7rem;
+  
+}
